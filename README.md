@@ -6,6 +6,10 @@ This is an editor plugin for [Godot Engine](https://godotengine.org) v4.X that a
 
 ![image](https://user-images.githubusercontent.com/7024016/221359351-4373e9f5-189b-4665-a500-0e994bdc64dc.png)
 
+Unfortunately, there is a [typo](https://github.com/godotengine/godot/pull/73887) in current Godot 4.RC master. I hope the fix will be included in next RC version.
+
+To work with this plugin you can download fixed Godot4 build from [fix pull-request page](https://github.com/godotengine/godot/pull/73887/checks)
+
 ## Installation
 
 Simply download or clone this repository and copy the contents of the `addons` folder to your own project's `addons` folder. Then enable the plugin on the Project Settings.
