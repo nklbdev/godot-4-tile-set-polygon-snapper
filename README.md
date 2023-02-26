@@ -12,7 +12,9 @@ To work with this plugin you can download fixed Godot4 build from [fix pull-requ
 
 ## Installation
 
-Simply download or clone this repository and copy the contents of the `addons` folder to your own project's `addons` folder. Then enable the plugin on the Project Settings.
+Simply download it from [Godot Asset Library](https://godotengine.org/asset-library/asset/1683)
+
+Alternatively, download or clone this repository and copy the contents of the `addons` folder to your own project's `addons` folder. Then enable the plugin on the Project Settings.
 
 ## License
 
