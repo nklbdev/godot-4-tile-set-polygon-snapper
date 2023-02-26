@@ -1,6 +1,7 @@
 # Tile Polygon Snapper for Godot 4.X
 
 This is an editor plugin for [Godot Engine](https://godotengine.org) v4.X that allows custom snapping polygon vertices while editing tileset.
+It can help you until [custom snapping](https://github.com/godotengine/godot/pull/73495) appeared in new version
 
 ![image](https://user-images.githubusercontent.com/7024016/221359347-f6af4f8f-3062-4e71-a09f-e17db052363a.png)
 
